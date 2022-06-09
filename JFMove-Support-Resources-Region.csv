@@ -461,7 +461,7 @@ Microsoft.Network/privatednszonesinternal,0,0,0
 Microsoft.Network/privateendpointredirectmaps,0,0,0
 Microsoft.Network/privateendpoints,1,1,1
 Microsoft.Network/privatelinkservices,0,0,0
-Microsoft.Network/publicipaddresses,1,1,1
+Microsoft.Network/publicipaddresses,"Yes Basic No Standard Tier","Yes Basic No Standard Tier","Yes Basic No Standard Tier"
 Microsoft.Network/publicipprefixes,1,1,0
 Microsoft.Network/routefilters,0,0,0
 Microsoft.Network/routetables,1,1,0
