@@ -152,10 +152,7 @@ Microsoft.Compute/restorepointcollections/restorepoints,0,0,0
 Microsoft.Compute/sharedvmextensions,0,0,0
 Microsoft.Compute/sharedvmimages,0,0,0
 Microsoft.Compute/sharedvmimages/versions,0,0,0
-Microsoft.Compute/snapshots,"Yes - Full
-No - Incremental","Yes - Full
-No - Incremental","No - Full
-No - Incremental"
+Microsoft.Compute/snapshots,"Yes - Full No - Incremental","Yes - Full No - Incremental","No - Full No - Incremental"
 Microsoft.Compute/sshpublickeys,0,0,0
 Microsoft.Compute/virtualmachines,1,1,1
 Microsoft.Compute/virtualmachines/extensions,1,1,0
@@ -445,9 +442,7 @@ Microsoft.Network/firewallpolicies,0,0,0
 Microsoft.Network/frontdoors,0,0,0
 Microsoft.Network/ipallocations,1,1,0
 Microsoft.Network/ipgroups,0,0,0
-Microsoft.Network/loadbalancers,"Yes - Basic SKU
-Yes - Standard SKU","Yes - Basic SKU
-No - Standard SKU",Yes-Use Azure Resource Mover to move internal and external load balancers
+Microsoft.Network/loadbalancers,"Yes - Basic SKU Yes - Standard SKU","Yes - Basic SKU No - Standard SKU","Yes - Use Azure Resource Mover to move internal and external load balancers"
 Microsoft.Network/localnetworkgateways,1,1,0
 Microsoft.Network/natgateways,0,0,0
 Microsoft.Network/networkexperimentprofiles,0,0,0
@@ -686,8 +681,7 @@ Microsoft.VSOnline/plans,0,0,0
 Microsoft.VSOnline/registeredsubscriptions,0,0,0
 Microsoft.Web/availablestacks,0,0,0
 Microsoft.Web/billingmeters,0,0,0
-Microsoft.Web/certificates,0,1,0
-Microsoft.Web/certificates (managed),0,0,0
+Microsoft.Web/certificates,"No Managed No Certificates","No Managed Yes Certificates","No Managed No Certificates"
 Microsoft.Web/connectiongateways,1,1,0
 Microsoft.Web/connections,1,1,0
 Microsoft.Web/customapis,1,1,0
